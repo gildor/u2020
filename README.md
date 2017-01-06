@@ -107,3 +107,5 @@ License
 
  [video]: https://www.youtube.com/watch?v=0XHx9jtxIxU
  [slides]: https://speakerdeck.com/jakewharton/android-apps-with-dagger-devoxx-2013
+
+Readme changed
